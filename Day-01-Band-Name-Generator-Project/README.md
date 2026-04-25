@@ -1,4 +1,4 @@
-# Day 1 - Band Name Generator 🎸
+# Day 1 - Band Name Generator 
 
 This project is part of Dr. Angela Yu's "100 Days of Code: The Complete Python Pro Bootcamp". 
 
