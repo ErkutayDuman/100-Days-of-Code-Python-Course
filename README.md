@@ -7,4 +7,5 @@ This repository contains the projects I have completed during Dr. Angela Yu's "1
 * **Day 3:** [Treasure Island (Customized)](./Day-03-Treasure-Island-Project) — *Focus: Control Flow and Logic*
 * **Day 4:** [Rock Paper Scissors](./Day-04-Rock-Paper-Scissors-Project) — *Focus: Randomisation and Python Lists*
 * **Day 5:** [PyPassword Generator](./Day-05-PyPassword-Generator-Project) — *Focus: For Loops, Range and Code Blocks*
-* **Day 6:** (Coming Soon...)
+* **Day 6:** [Escaping the Maze](./Day-06-Escaping-the-Maze-Project) — *Focus: Functions, While Loops and Indentation*
+* **Day 7:** (Coming Soon...)
